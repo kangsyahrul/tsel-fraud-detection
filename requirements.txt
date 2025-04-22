@@ -1,0 +1,11 @@
+psutil
+pynvml
+mlflow==2.21.3
+kaggle==1.7.4.2
+pandas==2.2.3
+matplotlib==3.9.4
+numpy==1.26.4
+scipy==1.12.0
+scikit-learn==1.2.2
+numexpr
+bottleneck
